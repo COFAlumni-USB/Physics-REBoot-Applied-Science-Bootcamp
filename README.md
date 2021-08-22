@@ -1,1 +1,1 @@
-# Physics-REBoot-Applied-Science-Bootcamp
+# Physics REBoot Applied Science Bootcamp
